@@ -10,7 +10,7 @@
 
 
 ## 订阅链接
-[公众号「**编程Cookbook**」八股库：MySQL数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3878204015292858377&scene=173&subscene=227&sessionid=1740799598&enterid=1740799634&from_msgid=2247485207&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
+[公众号「**编程Cookbook**」八股库：设计模式](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3878204015292858377&scene=173&subscene=227&sessionid=1740799598&enterid=1740799634&from_msgid=2247485207&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
 
 
 > 关注公众号「**编程Cookbook**」，获取更多编程学习/面试资料！  
